@@ -1,0 +1,5 @@
+flask
+transformers
+requests
+beautifulsoup4
+bitsandbytes
