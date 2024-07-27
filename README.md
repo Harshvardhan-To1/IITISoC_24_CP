@@ -22,7 +22,7 @@ Code Examples: Provides code implementations in popular programming languages.
 
 2 .Interactive: Allows users to input their own problem statements and get solutions.
 
-3 .Question Processing Pipeline: We process the input questions through web scraping, followed by prompt engineering using PHI-3. The enhanced prompt is then given to the model to generate output, and based on that, we make recommendations. Additionally, we have a login system where user-wise data is stored.
+3 .Question Processing Pipeline: We process the input questions through web scraping, followed by prompt engineering using PHI-3. The enhanced prompt is then given to the model to generate solution according to the input, and based on that, we make recommendations. Additionally, we have a login system where user-wise data is stored.
 
 ## DEMO 
 
