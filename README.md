@@ -26,8 +26,8 @@ Code Examples: Provides code implementations in popular programming languages.
 
 ## DEMO 
 
-
 [DEMO VIDEO](https://drive.google.com/file/d/1iRcEVUavlv5LSY81k0hgWLMYTCAXP5hC/view?usp=drive_link)
+
 ## Installation
 
 Install IITISoC_24_CP
@@ -36,3 +36,7 @@ Install IITISoC_24_CP
   !git install clone https://github.com/Harshvardhan-To1/IITISoC_24_CP
 ```
 Then run Final_IITISoC.ipynb
+
+## PAPER
+
+[DeepSeek-coder-V2](https://arxiv.org/abs/2406.11931)
