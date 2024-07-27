@@ -1,10 +1,10 @@
-CP/DSA Question Solver
+# CP/DSA Question Solver
 
-INTRODUCTION
+## INTRODUCTION
 
 The CP/DSA Question Solver is a tool designed to assist competitive programmers and students learning data structures and algorithms. It aims to provide solutions to common CP/DSA problems, helping users understand and implement various algorithms and data structures effectively.
 
-PURPOSE
+## PURPOSE
 
 The purpose of this tool is to:
 
@@ -14,7 +14,7 @@ The purpose of this tool is to:
 
 3.Help users practice and improve their problem-solving skills.
 
-FEATURES
+## FEATURES
 
 1 .Comprehensive Solutions: Covers a variety of problems from basic to advanced levels.
 Algorithm Explanations: Includes detailed explanations of the algorithms used.
@@ -24,7 +24,7 @@ Code Examples: Provides code implementations in popular programming languages.
 
 3 .Question Processing Pipeline: We process the input questions through web scraping, followed by prompt engineering using PHI-3. The enhanced prompt is then given to the model to generate output, and based on that, we make recommendations. Additionally, we have a login system where user-wise data is stored.
 
-DEMO 
+## DEMO 
 
 
 [DEMO VIDEO](https://drive.google.com/file/d/1iRcEVUavlv5LSY81k0hgWLMYTCAXP5hC/view?usp=drive_link)
